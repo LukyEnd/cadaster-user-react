@@ -2,7 +2,8 @@
 
 Um formulário de cadastro de usuário moderno e responsivo construído com React, TypeScript e Tailwind CSS. O projeto inclui validação de campos em tempo real, máscaras de input e feedback visual para o usuário.
 
-![Preview do Formulário](https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+<img width="1260" alt="image" src="https://github.com/user-attachments/assets/003994a9-eb45-4a5b-9760-cf739ed74389" />
+
 
 ## Funcionalidades
 
@@ -35,7 +36,7 @@ Um formulário de cadastro de usuário moderno e responsivo construído com Reac
 
 1. Clone o repositório
 ```bash
-git clone https://seu-repositorio/formulario-cadastro.git
+git clone https://github.com/LukyEnd/cadaster-user-react.git
 cd formulario-cadastro
 ```
 
@@ -90,14 +91,6 @@ O formulário inclui as seguintes validações:
 ## Personalização
 
 O projeto utiliza Tailwind CSS para estilização, permitindo fácil personalização através do arquivo `tailwind.config.js`.
-
-## Contribuição
-
-1. Faça o fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`)
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`)
-4. Push para a branch (`git push origin feature/nova-feature`)
-5. Abra um Pull Request
 
 ## Licença
 
